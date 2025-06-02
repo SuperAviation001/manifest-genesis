@@ -12,7 +12,7 @@ Compiling GenesisOS
 
 ### First you need to initialize your local repository using the following command:
 ```
-repo init -u https://github.com/GenesisOS/manifest.git -b verve-qpr2 --git-lfs
+repo init -u https://github.com/SuperAviation001/manifest-genesis.git -b verve-qpr2 --git-lfs
 ```
 ### Then Sync the source code using the following command:
 ```
